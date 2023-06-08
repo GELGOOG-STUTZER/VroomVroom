@@ -24,3 +24,14 @@
 1. Радиомодуль. В какой-то момент радиомодуль на боте перегревался и начиналось восстание машин. В конечном счете его пришлось заменить
 2. Моторы нужно проверять на брак, также попадаются моторы с разной мощностью
 3. Трения колес не хватало для преодоления подъема на горку, проблему решили нанесением клея на части колес, контактирующих с поверхностью. Стоит отметить, что использовались не самые мощные элекромоторы.
+
+### Фото Бота:
+![bot_1.jpg](https://github.com/GELGOOG-STUTZER/VroomVroom/blob/main/pictures/bot_1.JPG)
+
+![bot_2.jpg](https://github.com/GELGOOG-STUTZER/VroomVroom/blob/main/pictures/bot_2.JPG)
+
+![bot_3.jpg](https://github.com/GELGOOG-STUTZER/VroomVroom/blob/main/pictures/bot_3.JPG)
+
+![bot_4.jpg](https://github.com/GELGOOG-STUTZER/VroomVroom/blob/main/pictures/bot_4.JPG)
+
+![control.jpg](https://github.com/GELGOOG-STUTZER/VroomVroom/blob/main/pictures/control.jpg)
